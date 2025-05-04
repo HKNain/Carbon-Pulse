@@ -16,6 +16,11 @@
         "label": "Carbon Pulse",
         "uiTheme": "vs-dark",
         "path": "./themes/Carbon Pulse-color-theme.json"
+      },
+      {
+        "label": "Neon Quartz",
+        "uiTheme": "vs",
+        "path": "./themes/Neon Quartz-color-theme.json"
       }
     ]
   }
