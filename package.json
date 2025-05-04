@@ -2,7 +2,7 @@
   "name": "carbon-pulse",
   "displayName": "Carbon Pulse",
   "description": "A Dark Theme for Focused, Future-Ready Coding",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "hknain",
   "engines": {
     "vscode": "^1.99.0"
@@ -10,6 +10,13 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hknain/carbon-pulse"
+  },
+  "bugs": {
+    "url": "https://github.com/hknain/carbon-pulse/issues"
+  },
   "contributes": {
     "themes": [
       {
