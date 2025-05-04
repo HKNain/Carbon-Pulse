@@ -1,0 +1,22 @@
+{
+  "name": "carbon-pulse",
+  "displayName": "Carbon Pulse",
+  "description": "A Dark Theme for Focused, Future-Ready Coding",
+  "version": "0.0.1",
+  "publisher": "hknain",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Pulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbon Pulse-color-theme.json"
+      }
+    ]
+  }
+}
