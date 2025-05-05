@@ -30,7 +30,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#449933"
+        "foreground": "#2bff00"
       }
     },
     {
