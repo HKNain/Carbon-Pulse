@@ -2,8 +2,9 @@
   "name": "carbon-pulse",
   "displayName": "Carbon Pulse",
   "description": "A Dark Theme for Focused, Future-Ready Coding",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "hknain",
+  "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.99.0"
   },
