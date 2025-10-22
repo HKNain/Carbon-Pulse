@@ -2,7 +2,7 @@
   "name": "carbon-pulse",
   "displayName": "Carbon Pulse",
   "description": "A Dark Theme for Focused, Future-Ready Coding",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "publisher": "hknain",
   "icon": "assets/logo.png",
   "engines": {
@@ -24,11 +24,6 @@
         "label": "Carbon Pulse",
         "uiTheme": "vs-dark",
         "path": "./themes/Carbon Pulse-color-theme.json"
-      },
-      {
-        "label": "Neon Quartz",
-        "uiTheme": "vs",
-        "path": "./themes/Neon Quartz-color-theme.json"
       }
     ]
   }
