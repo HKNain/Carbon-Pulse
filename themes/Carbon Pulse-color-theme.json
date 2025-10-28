@@ -5,7 +5,7 @@
     "editor.foreground": "#eeffff",
     "sideBarTitle.foreground": "#ffffff",
     "sideBarTitle.background": "#07111b",
-    "sideBar.background": "#1f1f28",                 
+    "sideBar.background": "#03192b",                 
     "sideBar.foreground": "#c0bebe",          
     "sideBarSectionHeader.background": "#1a1a21",
     "sideBarSectionHeader.foreground": "#9f9e9e",
@@ -17,8 +17,8 @@
     "list.hoverForeground": "#ffffff",
 
     "activityBar.background": "#08153b",
-    "activityBar.foreground": "#1f89a3",
-    "activityBar.inactiveForeground": "#bfc9c9",
+    "activityBar.foreground": "#4ecff0",
+    "activityBar.inactiveForeground": "#edf2f2",
     "activityBarBadge.background": "#374fa7",
     "activityBarBadge.foreground": "#f7f7f7",
     "activityBar.border": "#444444"
@@ -30,7 +30,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#2bff00"
+        "foreground": "#66ea4c"
       }
     },
     {
@@ -38,7 +38,7 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#35d2c0"
+        "foreground": "#33aa9c"
       }
     },
     {
@@ -107,7 +107,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#a44747"
+        "foreground": "#bc7949"
       }
     },
     {
@@ -120,21 +120,21 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#a250b9"
+        "foreground": "#1fe3f1"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#aa4d52"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#aa4d52"
       }
     },
     {
@@ -202,7 +202,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#4f7b8d"
       }
     },
     {
